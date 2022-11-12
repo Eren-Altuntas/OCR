@@ -1,0 +1,7 @@
+excel veri seti oluştur.(denklem-denklem değil)
+regresyon analizi ile verilerle makineyi eğit.
+ocr programı kullan.
+fotoğrafı gir ve boşluklardan kelimeleri ayır.
+sonra her birinin denklem olup olmadığını kontrol et.
+denklemi bul.
+denklemi çöz.
